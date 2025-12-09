@@ -1,0 +1,19 @@
+@page "/profile"
+
+<h1 class="heading">Student Profile</h1>
+
+@* Student Image *@
+<img src="images/student1.jpeg" alt="Student Image" class="profile-image"/>
+
+@* Student information *@
+<p><strong>Name:</strong> @studentName</p>
+<p><strong>Course:</strong> @courseName</p>
+<p><strong>Batch:</strong> @batchYear</p>
+
+@code {
+    // Static variables
+    private string photoPath = "images/student1.jpeg";
+    private string studentName = "John Lama";
+    private string courseName = "Application Development";
+    private string batchYear = "2025";
+}
