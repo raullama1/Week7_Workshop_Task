@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tenta/.nuget/packages/microsoft.aspnetcore.components.webview/10.0.0/staticwebassets/blazor.modules.json",
+      "PackagePath": "staticwebassets/_framework/blazor.modules.json"
+    },
+    {
+      "Id": "/Users/tenta/.nuget/packages/microsoft.aspnetcore.components.webview/10.0.0/staticwebassets/blazor.webview.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webview.js"
+    },
+    {
+      "Id": "/Users/tenta/Documents/Week7/week7/week7/obj/Debug/net10.0-maccatalyst/maccatalyst-arm64/scopedcss/bundle/week7.styles.css",
+      "PackagePath": "staticwebassets/week7.styles.css"
+    },
+    {
+      "Id": "/Users/tenta/Documents/Week7/week7/week7/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/tenta/Documents/Week7/week7/week7/wwwroot/images/college.png",
+      "PackagePath": "staticwebassets/images/college.png"
+    },
+    {
+      "Id": "/Users/tenta/Documents/Week7/week7/week7/wwwroot/images/student1.jpeg",
+      "PackagePath": "staticwebassets/images/student1.jpeg"
+    },
+    {
+      "Id": "/Users/tenta/Documents/Week7/week7/week7/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/tenta/Documents/Week7/week7/week7/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tenta/Documents/Week7/week7/week7/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "obj/Debug/net10.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.build.week7.props",
+      "PackagePath": "build\\week7.props"
+    },
+    {
+      "Id": "obj/Debug/net10.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.buildMultiTargeting.week7.props",
+      "PackagePath": "buildMultiTargeting\\week7.props"
+    },
+    {
+      "Id": "obj/Debug/net10.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.buildTransitive.week7.props",
+      "PackagePath": "buildTransitive\\week7.props"
+    },
+    {
+      "Id": "obj/Debug/net10.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.week7.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net10.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.week7.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
